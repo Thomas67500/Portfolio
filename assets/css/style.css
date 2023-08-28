@@ -136,10 +136,11 @@ transition: all 0.4s;
         background-position: center;
     }
     
-}
+
 
 #content-wrapper {
     padding-left:var(--sidbar-width);
+}
 }
 
 /* bouton */
@@ -207,9 +208,7 @@ transition: all 0.4s ease;
 
 /* Reseau social */
 
-.social-icons{
 
-}
 
 
 .social-icons a {
