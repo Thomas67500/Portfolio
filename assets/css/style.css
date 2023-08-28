@@ -125,6 +125,25 @@ transition: all 0.4s;
 }
 
 
+#accueil {
+    border-bottom: 2px solid rgba(255,255,255, 0.1);
+}
+#services {
+    border-bottom: 2px solid rgba(255,255,255, 0.1);
+}
+
+#projets{
+    border-bottom: 2px solid rgba(255,255,255, 0.1);
+}
+
+#contact {
+    border-bottom: 2px solid rgba(255,255,255, 0.1);
+}
+
+.social-icons{
+    display: flex;
+    justify-content: center;
+}
 
 
 @media (min-width:992px) {
