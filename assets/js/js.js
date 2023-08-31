@@ -16,16 +16,6 @@ async function CvThomas () {
 CvThomas()
 
 
-async function Services(){
-    let response = await fetch ("assets/js/data.json")
-    let data= await response.json()
-    
-    
-}
-
-
-
-
 
     async function Social (){
         let response = await fetch ("assets/js/data.json")
